@@ -1,5 +1,6 @@
 # WIX1002 Tutorials — 2026 Semester 1
 
+Chua Jun Yu OCC3
 Tutorial materials for **WIX1002 Fundamentals of Programming**. Each tutorial has its own folder containing the original question PDF. Create your answers in Markdown in your own fork of this repository.
 
 ## Tutorial list
