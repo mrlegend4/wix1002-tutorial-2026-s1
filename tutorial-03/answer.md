@@ -107,6 +107,8 @@ else (s1 != s2)
 **Corrected statement:**
 
 ```java
+String s1, s2;
+
 if (s1.equals(s2))
     System.out.println("They are equal strings.");
 else
